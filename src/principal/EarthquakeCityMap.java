@@ -54,7 +54,7 @@ public class EarthquakeCityMap extends PApplet {
 	private CommonMarker lastClicked;
 	
 	public void setup() {
-		frame.setTitle("Earthquake Map");
+//		frame.setTitle("Earthquake Map");
 		size(1280, 720, OPENGL);
 		
 		// Loads Markers data
